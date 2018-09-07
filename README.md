@@ -1,8 +1,8 @@
 # ar-vr-hack
-28-30 September, 2018 
+3-5 May, 2019 
 New Space, Hunter St, Newcastle
 
-New Futures Hackathon for AR/VR 2018 will bring together multidisciplinary minds to explore the application of virtual and augmented reality technologies for building engaging experiences. 
+New Futures Hackathon for AR/VR 2019 will bring together multidisciplinary minds to explore the application of virtual and augmented reality technologies for building engaging experiences. 
 Meet new people, be exposed to fresh ideas, learn new skills and build creative, original work.
 
 # Beginner guide for Hackathon Submissions using DevPost: 
